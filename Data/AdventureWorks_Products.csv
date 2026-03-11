@@ -99,7 +99,7 @@ ProductKey,ProductSubcategoryKey,ProductSKU,ProductName,ModelName,ProductDescrip
 393,10,FK-9939,HL Fork,HL Fork,High-performance carbon road fork with curved legs.,NA,0,0,101.8936,229.49
 394,11,HS-0296,LL Headset,LL Headset,Threadless headset provides quality at an economical price.,NA,0,0,15.1848,34.2
 395,11,HS-2451,ML Headset,ML Headset,Sealed cartridge keeps dirt out.,NA,0,0,45.4168,102.29
-396,11,HS-3479,HL Headset,HL Headset,"High-quality 1"" threadless headset with a grease port for quick lubrication.",NA,0,0,55.3801,124.73
+396,11,HS-3479,HL Headset,HL Headset,"High-quality 1" threadless headset with a grease port for quick lubrication.",NA,0,0,55.3801,124.73
 397,4,HB-M243,LL Mountain Handlebars,LL Mountain Handlebars,All-purpose bar for on or off-road.,NA,0,0,17.978,40.4909
 399,4,HB-M763,ML Mountain Handlebars,ML Mountain Handlebars,Tough aluminum alloy bars for downhill.,NA,0,0,24.9932,56.2909
 401,4,HB-M918,HL Mountain Handlebars,HL Mountain Handlebars,Flat bar strong enough for the pro circuit.,NA,0,0,48.5453,109.3364
@@ -292,3 +292,4 @@ ProductKey,ProductSubcategoryKey,ProductSKU,ProductName,ModelName,ProductDescrip
 604,2,BK-R19B-44,"Road-750 Black, 44",Road-750,Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,44,U,343.6496,539.99
 605,2,BK-R19B-48,"Road-750 Black, 48",Road-750,Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,48,U,343.6496,539.99
 606,2,BK-R19B-52,"Road-750 Black, 52",Road-750,Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,52,U,343.6496,539.99
+
